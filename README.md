@@ -173,7 +173,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-
+<img width="1919" height="1076" alt="Screenshot 2025-09-01 092651" src="https://github.com/user-attachments/assets/f4cc7327-5149-4afe-b831-ca21d6895724" />
 
 ## Fig 7: Compiled database in worklib
 
@@ -203,6 +203,8 @@ It contains statements that map logical library names to their physical director
 9.	It also establishes net connectivity and prepares all of this for simulation
     
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
+
+
 
 ## Fig 8: Elaboration Launch Option
 
